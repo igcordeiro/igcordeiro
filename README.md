@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @igcordeiro
 - 👀 I'm passionate about technology and people
 - 🌱 I’m currently learning DevOps tecnhnologys
-- 💞️ I’m looking to collaborate on Cloud projects
+- 💞️ I’m looking to collaborate on cloud and devops projects
 - 📫 Reach ne on Instragram @igcordeiro
 
 <!---
